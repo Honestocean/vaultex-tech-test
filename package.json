@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node validateOrder",
     "test": "jest"
   },
   "keywords": [],
